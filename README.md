@@ -1,4 +1,4 @@
-![alt text](https://github.com/SeamusClarke/RJplots/tree/main/Images/RJplots.png)
+![alt text](https://github.com/SeamusClarke/RJplots/blob/main/Images/RJplots.png)
 
 # RJ-plots: An improved method to classify structures objectively and in an automated manner
 
