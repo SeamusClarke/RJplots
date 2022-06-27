@@ -1,4 +1,4 @@
-![alt text](https://github.com/SeamusClarke/RJplots/blob/master/Images/RJplots.png)
+![alt text](https://github.com/SeamusClarke/RJplots/tree/main/Images/RJplots.png)
 
 # RJ-plots: An improved method to classify structures objectively and in an automated manner
 
@@ -6,7 +6,7 @@ RJ-plots is a Python module which uses a moments of inertia method to disentangl
 
 The accompanying paper will be available shortly. It explains the details of the method, shows the sensitivity of the method to different parametrizable shapes as well as example applications to real astronomical data, both from observations and numerical simulations. 
 
-This work is built upon the J-plots code written by Dr Sarah Jaffa ([found here] (https://github.com/SJaffa/Jplots )). 
+This work is built upon the J-plots code written by Dr Sarah Jaffa ([found here](https://github.com/SJaffa/Jplots)). 
 
 ## Dependencies 
 
@@ -28,4 +28,4 @@ An example script is provided which shows how to use the package. It calculates 
 This code was produced with the support of the Ministry of Science and Technology (MoST) in Taiwan through grant MoST 108-2112-M-001-004-MY2
 ## Contact
 
-For up-to-date contact information see my [website] (https://seamusclarke.github.io/#five )
+For up-to-date contact information see my [website](https://seamusclarke.github.io/#five)
