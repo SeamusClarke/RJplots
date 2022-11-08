@@ -4,7 +4,7 @@
 
 RJ-plots is a Python module which uses a moments of inertia method to disentangle a 2D structure's elongation from its centrally over/under-density, thus allowing a means to classify such structures. It may be applied to any 2D pixelated image such as column density maps or moment zero maps of molecular lines. The code is open-source and can be downloaded here.
 
-The accompanying paper will be available shortly. It explains the details of the method, shows the sensitivity of the method to different parametrizable shapes as well as example applications to real astronomical data, both from observations and numerical simulations. 
+If the code is used in published work please cite the [accompanying paper](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2782C/abstract). It explains the details of the method, shows the sensitivity of the method to different parametrizable shapes as well as example applications to real astronomical data, both from observations and numerical simulations.
 
 This work is built upon the J-plots code written by Dr Sarah Jaffa ([found here](https://github.com/SJaffa/Jplots)). 
 
